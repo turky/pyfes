@@ -164,7 +164,7 @@ Clojure (未定)
 @johtani
 --------
 
-SenseiDB または elasticsearch または SolrCloud (未定)
+elasticsearch 入門
 
 @tmmkr
 ------

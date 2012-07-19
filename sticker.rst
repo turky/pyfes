@@ -81,7 +81,6 @@ pyspa ステッカー
 - @mitszo
 - @blaue_fuchs
 - @Masahito
-- @_mipo_
 - @takabow
 - @jbking
 - @isoparametric +3
@@ -105,12 +104,11 @@ pyspa ステッカー
 - @johtani
 - @AHG100P
 
-現在 43 口
-
 カンパ済み
 ==========
 
 - @terapyon
+- @_mipo_
 
 配布済み
 ========
@@ -120,6 +118,7 @@ pyspa ステッカー
 
 テカテカステッカー以外を 1 セット
 
+- @_mipo_
 
 #pyspa 定期開催最終回参加者組
 -----------------------------

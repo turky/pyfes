@@ -285,3 +285,4 @@ Python (C)
 - @atusi * 5
 - @xga
 - @takano32
+- @kenji_rikitake * 5

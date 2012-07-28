@@ -187,7 +187,7 @@ LT
 @kenji_rikitake
 ---------------
 
-未定
+Do not invent your own RNG (CVE-2012-2808)
 
 @nanimosa
 ---------

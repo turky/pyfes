@@ -25,9 +25,11 @@ pyspa ステッカー
 費用
 ----
 
-:予算: 62000 (#pyspa 基金) + 43000 (寄付)
-:作成: 50600 円 (予定)
-:デザインなど: 50000 円 (確定)
+:予算: 62,000 (#pyspa 基金) + α (寄付)
+:作成: 49,475 円
+:デザインなど: 50,000 円
+
+@sawonya に支払った金額 99,475 円
 
 費用は @sawonya に支払い済みです。あとは寄付金を回収するだけ。
 
@@ -37,6 +39,16 @@ pyspa ステッカー
 ロゴのライセンスはイラレのデータは CC BY-NC-SA で github にて公開しています。
 
 余った金額がまたカンパ等で増えた場合は再度ステッカーを作成する予定です。一気に頼んだ方が安いので ... 。
+
+残回収金額
+----------
+
+37,475 円が今回の発注の + αでした。支払い振り込み費用とか入れて 38,000 円が自腹切ってる金額です。
+
+#pyfes 2012.07 までで 39,000 円 集まりました。ということでペイしました。
+
+:残り自腹金額: 0 円
+:次回繰越金額: 1000 円
 
 配布優先順位
 ============
@@ -61,7 +73,7 @@ pyspa ステッカー
 お金の受け渡しはシールを **渡すとき** でお願いします。
 事前に支払っておきたいという人は一応承りますが、自分は忘れっぽいのでオススメはしません。
 
-カンパのメリットは 1 セット確実に貰えるが貰える程度です。
+カンパのメリットは 1 セット確実に貰えるだけです。ご理解下さい。
 基本的には寄付と同様ですの余り期待はしないでください。それでも良い方のみ是非。
 
 カンパ希望者
@@ -70,61 +82,52 @@ pyspa ステッカー
 希望者は @voluntas までリプライを飛ばすか、コメントに書いてください。
 
 - @AE35
-- @turky
-- @keroria +2
 - @nkd_a
-- @Surgo
 - @yuroyoro
-- @ymotongpoo
 - @ksauzz
-- @shomah4a
 - @mitszo
-- @blaue_fuchs
-- @Masahito
-- @takabow
-- @jbking
 - @isoparametric +3
-- @kenji_rikitake
-- @tmmkr
-- @rokujyouhitoma
-- @atsuoishimoto
 - @oshothebig
 - @atusi +2
-- @feiz
-- @ransui +2
-- @tk0miya +3
 - @yoshiori
-- @kuenishi
-- @ryoaita
-- @hirokinko +2
 - @tnkkrn
+
+カンパ済み & 配布済み
+=====================
+
+テカテカステッカー以外を 1 セット
+
+:回収: 39000 円
+
+- @_mipo_
+- @turky
+- @keroria
+- @terapyon
 - @inoshiro
 - @lincolinnyan
 - @Surgo
 - @johtani
 - @AHG100P
-
-カンパ済み
-==========
-
-- @terapyon
-- @_mipo_
-
-配布済み
-========
-
-カンパ
-------
-
-テカテカステッカー以外を 1 セット
-
-- @_mipo_
-
-#pyspa 定期開催最終回参加者組
------------------------------
-
-テカテカステッカー以外を 1 セット
-
-- @aohta
-- @shkumagai
-
+- @hirokinko +2
+- @kuenishi
+- @ryoaita
+- @ransui +2
+- @tk0miya +3
+- @kenji_rikitake
+- @tmmkr
+- @rokujyouhitoma
+- @atsuoishimoto
+- @feiz
+- @Masahito
+- @takabow
+- @jbking
+- @ymotongpoo
+- @shomah4a
+- @blaue_fuchs
+- @yokatsuki
+- @hirokiky
+- @nanoco3
+- @yuitowest
+- @takano32
+- @chiemityanyo
+- @kashew_nuts

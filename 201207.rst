@@ -119,6 +119,11 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 我こそは、という方おまちしております。
 時間は 20~30 分程度です。
 
+@tk0miya
+--------
+
+bagrant + chef
+
 @troter
 -------
 
@@ -127,9 +132,7 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 @takufukushima
 --------------
 
-**発表できない可能性あり**
-
-未定
+js な話
 
 @Seasons
 --------
@@ -144,22 +147,22 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 @shiumachi
 ----------
 
-OSS のコントリビュート作法(未定)
+HBase
 
 @mkouhei
 --------
 
-Git (未定)
+Git + Python
 
 @mopemope
 ---------
 
-Clojure (未定)
+meinheld
 
 @yosukehara
 -----------
 
-分散ファイルシステム
+leofs
 
 @johtani
 --------
@@ -188,11 +191,6 @@ LT
 ---------------
 
 Do not invent your own RNG (CVE-2012-2808)
-
-@nanimosa
----------
-
-CEDEC の宣伝？
 
 @shomah4a
 ---------
@@ -247,17 +245,17 @@ Python の主にテストなどをお願いしています。ターゲットは�
 Python (C)
 ----------
 
-:講師: @atsuoishimoto @ransui 
+:講師: @atsuoishimoto @ransui
 
 特に何もありませんが、自分のコードを見て貰うのもよし、日頃気になってるのを聞くのもよし。ターゲットは中級者以上です。
 
 あしながの会
 ============
 
-後で書き足します
-
 遠方枠で参加ている中で希望者には、
 あしながの会から交通費支援をさせて頂きたいなと考えております。
+
+ただお金が絡むので可能であれば推薦人がつくといいなと思っています。
 
 1 口 1000 円から。何口でもどうぞ。
 集金は「当日」「現金」で @voluntas / @tokoroten / @blaue_fuchs にお渡し下さい。
@@ -265,10 +263,12 @@ Python (C)
 
 @voluntas までリプライ下さい。
 
+:合計金額: 24000 円
+
 対象候補者
 ----------
 
-- @tututen 
+- @tututen
 
     - 推薦人 @tokibito
     - 交通費補助
@@ -279,15 +279,14 @@ Python (C)
 とりあえず金額が書いてなかった人は 1 口にしてあります。
 
 - @turky * 3
-- @lincolinnyan
-- @yuitowest
+- @lincolinnyan *2
+- @yuitowest * 2
 - @blaue_fuchs
-- @ransui
-- @ryushi
-- @itawasa
-- @mitszo
-- @Sugro
-- @atusi * 5
+- @ransui * 2
+- @Sugro * 5
 - @xga
 - @takano32
 - @kenji_rikitake * 5
+- @atsuoishimoto * 3
+- @jbking
+- @keroria 

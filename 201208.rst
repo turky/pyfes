@@ -164,3 +164,7 @@ LT
 
 GvR の google.appengine.ext.ndb
 
+@aodag
+------
+
+WP7が日本で発売されてから1年が過ぎました

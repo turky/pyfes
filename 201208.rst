@@ -154,6 +154,16 @@ LT
 
 五番目のダイアグ、現る。 (8/25 限定)
 
+@ymotongpoo
+-----------
+
+5分で分かる動画の基礎
+
+@torufurukawa
+-------------
+
+GvR の google.appengine.ext.ndb
+
 @aodag
 ------
 

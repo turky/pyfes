@@ -168,3 +168,8 @@ GvR の google.appengine.ext.ndb
 ------
 
 WP7が日本で発売されてから1年が過ぎました
+
+@hideaki_t
+----------
+
+Whooshを使って全文検索しよう

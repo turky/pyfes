@@ -89,9 +89,9 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 募集中
 ======
 
-- 一般枠 100
-- 女子枠 20
-- 遠方枠 5
+- 一般枠 100 http://connpass.com/event/952/
+- 女子枠 20 http://connpass.com/event/950/
+- 遠方枠 5 http://connpass.com/event/951/
 
 ステッカー配布について
 ======================
@@ -122,8 +122,8 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 
 とてもおもしろいプレゼン(仮)
 
-@IanMLewis
-----------
+@IanMLewis & @AE35
+------------------
 
 connpass ネタ(仮)
 

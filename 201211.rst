@@ -187,3 +187,5 @@ https://github.com/pyspa/pyfes/issues/25
 - @aohta: 1
 - @turky: 1
 - @takano32: 1
+- @ransui: 2
+

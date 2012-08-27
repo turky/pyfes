@@ -47,7 +47,7 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 受付
 ----
 
-受付にて Zusaar の参加者 ID とチケット番号を口頭にて確認させて頂きます。
+受付にて Connpass の参加者 ID とチケット番号を口頭にて確認させて頂きます。
 
 遅刻
 ----
@@ -180,3 +180,4 @@ https://github.com/pyspa/pyfes/issues/25
 - @itawasa: 3
 - @xga: 1
 - @aohta: 1
+- @turky: 1

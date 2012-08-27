@@ -173,3 +173,4 @@ LT
 
 - @itawasa: 3
 - @xga: 1
+- @aohta: 1

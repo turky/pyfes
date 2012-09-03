@@ -117,6 +117,8 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 
 時間は 20 分程度です。
 
+発表者にはドタキャンの権利があるので発表がない可能性もあります。
+
 @tk0miya
 --------
 
@@ -142,12 +144,39 @@ connpass ネタ(仮)
 
 ナンパの極意(仮)
 
+@doryokujin
+-----------
+
+Python の分散処理フレームワーク(仮)
+
+@repeatedly
+-----------
+
+Tornado Web Server(仮)
+
+@cooldaemon
+-----------
+
+Python & Erlang & ソーシャルゲーム(仮)
+
+
 定期プレゼン
 ============
 
-- @torufurukawa
-- @moriyoshi
-- @hiroki_ninuma
+@torufurukawa
+-------------
+
+Python 3.3 アップデート
+
+@moriyoshi
+----------
+
+未定
+
+@hiroki_ninuma
+--------------
+
+未定
 
 LT
 ==
@@ -157,7 +186,7 @@ LT
 ハンズオン
 ==========
 
-予定は未定
+初心者ハンズオンと Mercurial 以外はそろそろ卒業したいところではある
 
 あしながの会
 ============

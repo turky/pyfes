@@ -142,7 +142,7 @@ connpass ネタ(仮)
 @shiumachi
 ----------
 
-ナンパの極意(仮)
+像じゃない面白い話(仮)
 
 @mass_cut
 ---------
@@ -164,6 +164,10 @@ Tornado Web Server(仮)
 
 Python & Erlang & ソーシャルゲーム(仮)
 
+@methane
+-----------
+
+Python の深い話(仮)
 
 定期プレゼン
 ============

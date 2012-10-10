@@ -234,6 +234,11 @@ LT
 
 Haskell の QuickCheck
 
+@flagboy
+--------
+
+PyConJP 2012 運営を振り返って(主にプログラム周りの話の予定)
+
 ハンズオン
 ==========
 

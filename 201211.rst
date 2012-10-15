@@ -242,9 +242,19 @@ PyConJP 2012 運営を振り返って(主にプログラム周りの話の予定
 ハンズオン
 ==========
 
+Python
+------
+
 Python のハンズオンを開催予定です。課題を渡されてひたすらもくもくと。
 
 わからない事はバンバン講師に聞きましょう。
+
+meinheld
+--------
+
+@mopemope による meinheld ハンズオンを開催します
+
+https://github.com/mopemope/meinheld
 
 Python ハンズオン
 -----------------

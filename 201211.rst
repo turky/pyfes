@@ -166,7 +166,9 @@ connpass ネタ(仮)
 @shiumachi
 ----------
 
-象じゃない面白い話(仮)
+Impala の話
+
+http://www.cloudera.co.jp/blog/cloudera-impala-real-time-queries-in-apache-hadoop-for-real.html
 
 @doryokujin
 -----------
@@ -305,7 +307,6 @@ https://github.com/pyspa/pyfes/issues/25
 - @xga: 1
 - @aohta: 1
 - @turky: 1
-- @takano32: 1
 - @ransui: 2
 - @usaturn: 2
 - @Surgo: 2

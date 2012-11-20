@@ -168,11 +168,6 @@ connpass ネタ(仮)
 
 象じゃない面白い話(仮)
 
-@mass_cut
----------
-
-Chef と Fabric(仮)
-
 @doryokujin
 -----------
 
@@ -312,4 +307,5 @@ https://github.com/pyspa/pyfes/issues/25
 - @turky: 1
 - @takano32: 1
 - @ransui: 2
-
+- @usaturn: 2
+- @Surgo: 2

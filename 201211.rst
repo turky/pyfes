@@ -15,7 +15,7 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 
 2012-11-24 、 9:00 開場 10:00 スタートです。遅くても 22:00 までには解散します。
 
-ハンズオンは 10:00 ~ 13:00 で、プレゼンは 13:00 ~ です。
+ハンズオンは 10:00 ~ 14:00 で、プレゼンは 14:00 ~ です。
 
 懇親会
 ------
@@ -175,11 +175,6 @@ http://www.cloudera.co.jp/blog/cloudera-impala-real-time-queries-in-apache-hadoo
 
 Python の分散処理フレームワーク(仮)
 
-@repeatedly
------------
-
-Tornado Web Server(仮)
-
 @cooldaemon
 -----------
 
@@ -233,47 +228,15 @@ LT
 
 本の宣伝
 
-@seizans
---------
-
-Haskell の QuickCheck
-
-@flagboy
---------
-
-PyConJP 2012 運営を振り返って(主にプログラム周りの話の予定)
-
 ハンズオン
 ==========
 
-Python
-------
-
-Python のハンズオンを開催予定です。課題を渡されてひたすらもくもくと。
-
-わからない事はバンバン講師に聞きましょう。
-
-meinheld
---------
-
-@mopemope による meinheld ハンズオンを開催します
-
-https://github.com/mopemope/meinheld
-
-Python ハンズオン
------------------
-
-開催予定です
+今回は無くなりました
 
 求人ボード
 ============
 
 自社のに限ります。ご自由にどうぞ。
-
-お昼ボード
-==========
-
-いらないかな
 
 飲みボード
 ==========
@@ -306,7 +269,7 @@ https://github.com/pyspa/pyfes/issues/25
 - @itawasa: 3
 - @xga: 1
 - @aohta: 1
-- @turky: 1
-- @ransui: 2
-- @usaturn: 2
+- @turky: 1 済
+- @ransui: 2 済
+- @usaturn: 2 済
 - @Surgo: 2

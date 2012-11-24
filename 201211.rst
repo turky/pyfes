@@ -190,10 +190,10 @@ Python の深い話(仮)
 
 出版システムネタ(仮)
 
-@Jxck_
+@Jxck
 --------
 
-WebSocket の深い話(仮)
+WebSocket & SPDY for non beginner
 
 @everes
 -------

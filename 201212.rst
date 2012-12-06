@@ -37,6 +37,8 @@ Python 忘年会 2012
 未回収
 ------
 
+寄付された方 @voluntas まで連絡頂けれと思います
+
 - @fvbock
 - @IanMLewis
 - @120reset

@@ -33,6 +33,7 @@ Python 忘年会 2012
 --------
 
 - @flagboy 現金で回収し、会計に含んでいる
+- @1VQ9 PyPy's Transactional Memory project $50
 
 未回収
 ------
@@ -42,7 +43,6 @@ Python 忘年会 2012
 - @fvbock
 - @IanMLewis
 - @120reset
-- @1VQ9
 - @junjun_math
 - @3_and_planet
 - @mikamix

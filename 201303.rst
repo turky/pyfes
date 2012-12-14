@@ -154,6 +154,11 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 
 chef の苦労話と失敗話
 
+@ymotongpoo
+-----------
+
+Go言語の何か (仮)
+
 定期プレゼン
 ============
 

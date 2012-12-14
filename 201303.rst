@@ -169,8 +169,11 @@ LT
 
 **前回の講師派遣レポートはこちら**
 
-素人がpyfesに参加するとどうなるか
+素人がpyfesに参加するとどうなるか (講師は @tokibito)
     http://hackapanz.blog100.fc2.com/blog-entry-38.html
+
+Python Developers Festa 2012.11 に参加してきました (講師は @troter)
+    http://nikuyoshi.hatenablog.com/entry/2012/11/25/220529
 
 求人ボード
 ============

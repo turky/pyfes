@@ -2,8 +2,42 @@
 pyspa & pyfes ステッカー
 ########################
 
-発注内容
-========
+発注予定内容 第二弾
+===================
+
+pyfes 2013 へび年スペシャルステッカー
+-------------------------------------
+
+**派遣講師または発表者用**
+
+:緑: 50 枚 ノイズ
+
+pyfes 2013 へび年ステッカー
+---------------------------
+
+**一般参加者用**
+
+:緑: 200 枚 透明塩ビ+マットラミネート
+
+pyfes ステッカー
+----------------
+
+:赤: 100 枚 透明塩ビ+マットラミネート
+
+費用
+----
+
+:予算: 46,850 円
+:作成: 未定
+:デザインなど: 未定
+
+残回収金額
+----------
+
+
+
+発注内容 第一弾
+===============
 
 pyfes スペシャルステッカー
 --------------------------
@@ -55,7 +89,7 @@ pyspa ステッカー
 
 - Python 温泉最終回参加者 (レアステッカーを除くすべてのステッカーを 1 組配布)
 - Python 温泉参加経験者 (Python 温泉用を配布)
-- Python Developers Festa 講師または発表 経験者 (レアステッカー)
+- Python Developers Festa 派遣講師または発表またはお手伝いした人 (レアステッカー)
 - Python Developers Festa 受付による参加者(青/赤 お好きな方 1 種類を配布)
 
 カンパ
@@ -77,57 +111,11 @@ pyspa ステッカー
 基本的には寄付と同様ですの余り期待はしないでください。それでも良い方のみ是非。
 
 カンパ希望者
-============
+------------
 
-希望者は @voluntas までリプライを飛ばすか、コメントに書いてください。
-
-- @AE35
-- @nkd_a
-- @yuroyoro
-- @ksauzz
-- @mitszo
-- @isoparametric +3
-- @oshothebig
-- @atusi +2
-- @yoshiori
-- @tnkkrn
+一旦リセット
 
 カンパ済み & 配布済み
-=====================
+---------------------
 
-テカテカステッカー以外を 1 セット
-
-:回収: 39000 円
-
-- @_mipo_
-- @turky
-- @keroria
-- @terapyon
-- @inoshiro
-- @lincolinnyan
-- @Surgo
-- @johtani
-- @AHG100P
-- @hirokinko +2
-- @kuenishi
-- @ryoaita
-- @ransui +2
-- @tk0miya +3
-- @kenji_rikitake
-- @tmmkr
-- @rokujyouhitoma
-- @atsuoishimoto
-- @feiz
-- @Masahito
-- @takabow
-- @jbking
-- @ymotongpoo
-- @shomah4a
-- @blaue_fuchs
-- @yokatsuki
-- @hirokiky
-- @nanoco3
-- @yuitowest
-- @takano32
-- @chiemityanyo
-- @kashew_nuts
+一旦リセット

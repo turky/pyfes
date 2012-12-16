@@ -135,6 +135,11 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 
 タイムテーブルはありませんが、プレゼンが出来た人からばしばし進めます。
 
+@itawasa
+--------
+
+Erlang/OTP
+
 @sawonya
 --------
 

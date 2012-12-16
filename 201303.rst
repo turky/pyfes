@@ -148,7 +148,17 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 @tk0miya
 --------
 
-chef の苦労話と失敗話
+chef の苦労話と失敗話(仮)
+
+ymotongpoo
+----------
+
+Go 言語(仮)
+
+@t2y
+----
+
+py.test
 
 定期プレゼン
 ============

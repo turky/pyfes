@@ -139,6 +139,11 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 - とても腕のいいカメラマンに SNS のアイコン向けの写真が取ってもらえます。
 - ビックリマンを思い出させるテカテカした pyfes のステッカーが貰えます
 
+@keikubo
+--------
+
+WebPay
+
 @r_rudi
 -------
 
@@ -168,11 +173,6 @@ Erlang/OTP
 --------
 
 chef の苦労話と失敗話(仮)
-
-@t2y
-----
-
-py.test
 
 @ymotongpoo
 -----------

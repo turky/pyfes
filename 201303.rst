@@ -172,7 +172,7 @@ Erlang/OTP
 @tk0miya
 --------
 
-chef の苦労話と失敗話(仮)
+春を先取り！OpsWorks と Chef ではじめる恋色コーデ術！
 
 @ymotongpoo
 -----------

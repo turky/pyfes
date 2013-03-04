@@ -184,6 +184,13 @@ Go言語の何か (仮)
 
 Webmachine ノススメ
 
+@hagino3000
+-----------
+
+Leap Motion
+
+https://www.leapmotion.com/
+
 定期プレゼン
 ============
 

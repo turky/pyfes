@@ -98,8 +98,8 @@ http://pypy.org/py3donate.html
 ======
 
 - 一般枠 50 http://connpass.com/event/2217
-- 女子枠 10 準備中
-- 遠方枠 2  準備中
+- 女子枠 20 準備中
+- 遠方枠 5  準備中
 
 ステッカー配布について
 ======================
@@ -144,13 +144,25 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 - とても腕のいいカメラマンに SNS のアイコン向けの写真が取ってもらえます。
 - ビックリマンを思い出させるテカテカした pyfes のステッカーが貰えます
 
+Erlang & RTB
+------------
+
+@ajiyoshi
+
+Django CMS
+----------
+
+@ojiidotch
+
+https://www.django-cms.org/en/
+
 定期プレゼン
 ============
 
 @torufurukawa
 -------------
 
-Python の Test/Mock (仮)
+requests
 
 @moriyoshi
 ----------

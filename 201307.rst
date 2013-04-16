@@ -141,6 +141,20 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 - とても腕のいいカメラマンに SNS のアイコン向けの写真が取ってもらえます。
 - ビックリマンを思い出させるテカテカした pyfes のステッカーが貰えます
 
+暗号の話
+--------
+
+@cocoatomo
+
+「アルゴリズムを学ぼう」の著者
+
+Fabric (仮)
+-----------
+
+@shiumachi
+
+「サポートエンジニアとしてのAWSの使い方」Fabric + AWS を使って、サポート業務を楽にする話
+
 Erlang & RTB
 ------------
 
@@ -151,6 +165,8 @@ Django CMS
 
 @ojiidotch
 
+Django CMS の作者
+
 https://www.django-cms.org/en/
 
 定期プレゼン
@@ -159,7 +175,7 @@ https://www.django-cms.org/en/
 @torufurukawa
 -------------
 
-requests
+「おまえらこのライブラリ使ってないの？ m9」
 
 @moriyoshi
 ----------
@@ -189,3 +205,10 @@ LT
 是非、皆様各自で野良で開催してみてください。
 
 公式に提供するのはたまにしかありません。
+
+fabric
+------
+
+とりあえず触ってみる感じで
+
+@shiumachi と @drillbits

@@ -163,14 +163,13 @@ Django CMS の作者
 Enterprise Open-Source CMS
     https://www.django-cms.org/en/
 
-Heka
-----
 
-@ymotongpoo
+パターンマッチ指向プログラミング言語 Egison
+-------------------------------------------
 
-Mozilla、Goで実装されたサーバーログ収集・分析ツール「Heka」を公開
-    http://sourceforge.jp/magazine/13/05/02/180000
+@__Egi
 
+http://egison.pira.jp/index-j.html
 
 Heka
 ----

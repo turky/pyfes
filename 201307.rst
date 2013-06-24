@@ -202,6 +202,11 @@ http://sourceforge.jp/magazine/13/05/02/180000 （日本語記事）
 LT
 ==
 
+@ryu22e
+-------
+
+「PyCon APAC 2013 in Japan 開催します！」
+
 勉強会やら何やらの告知も歓迎ですよ、時間は 3~5 分程度です。
 
 講師派遣

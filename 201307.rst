@@ -181,6 +181,14 @@ http://blog.mozilla.org/services/2013/04/30/introducing-heka/ （本家）
 http://sourceforge.jp/magazine/13/05/02/180000 （日本語記事）
 
 
+Spark/Shark
+-----------
+
+@oza_x86
+
+http://spark-project.org
+https://github.com/amplab/shark/wiki
+
 定期プレゼン
 ============
 

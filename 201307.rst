@@ -175,8 +175,8 @@ Packer
 
 @ymotongpoo
 
-http://www.packer.io
-https://github.com/mitchellh/packer
+* http://www.packer.io
+* https://github.com/mitchellh/packer
 
 
 Spark/Shark

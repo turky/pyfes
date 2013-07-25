@@ -170,14 +170,13 @@ Enterprise Open-Source CMS
 
 http://egison.pira.jp/index-j.html
 
-Heka
-----
+Packer
+------
 
 @ymotongpoo
 
-https://github.com/mozilla-services/heka
-http://blog.mozilla.org/services/2013/04/30/introducing-heka/ （本家）
-http://sourceforge.jp/magazine/13/05/02/180000 （日本語記事）
+* http://www.packer.io
+* https://github.com/mitchellh/packer
 
 
 Spark/Shark

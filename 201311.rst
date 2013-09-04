@@ -143,7 +143,12 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 @moriyoshi
 ----------
 
-Nginx + Lua
+nginx + Lua
+
+@cubicdaiya
+-----------
+
+nginx + mruby
 
 @tatsuhiro_t
 ------------

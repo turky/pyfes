@@ -150,6 +150,8 @@ nginx + Lua
 
 nginx + mruby
 
+https://github.com/cubicdaiya/mruby_nginx_module
+
 @tatsuhiro_t
 ------------
 

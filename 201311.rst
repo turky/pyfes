@@ -8,12 +8,12 @@ Python Developers Festa 2013.11
 内容
 ----
 
-Python を主に使っている人が多く参加しますが、ほとんど関係ありません。主催者は Erlang がメインです。
+Python を主に使っている人が多く参加しますが、ほとんど関係ありません。主催者は Erlang/OTP がメインです。
 
 日時
 ----
 
-未定です
+2013-11-30 9:00 ~ 18:00 を予定しております
 
 懇親会
 ------
@@ -23,14 +23,15 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 会場
 ----
 
-未定
+調整中です
 
 参加費用
 --------
 
 1,000 円
 
-参加費用はすべて何かしらの OSS プロジェクトに寄付されます。
+参加費用の半分は何かしらの OSS プロジェクトに寄付されます。
+残り半分はシールを作成する費用に充てられます。
 
 - 遠方枠の方は無料です。
 - 子連れ枠の子供さんは無料です。
@@ -143,7 +144,7 @@ GitHub にて Pull-Reuqest を送ってくるか Twitter でリプライをお�
 @moriyoshi
 ----------
 
-nginx + Lua
+nginx + lua
 
 @cubicdaiya
 -----------
@@ -159,8 +160,15 @@ https://github.com/cubicdaiya/mruby_nginx_module
 
 Pixiv を支えるインフラの技術
 
+@jxck_
+------
+
+**HTTP2.0 概要**
+
 @tatsuhiro_t
 ------------
+
+**HTTP2.0 クライアント**
 
 nghttp2 - HTTP/2.0 C Library
 
@@ -169,12 +177,19 @@ https://github.com/tatsuhiro-t/nghttp2
 @jovi0608
 ---------
 
-HTTP2.0 サーバあたり
+**HTTP2.0 サーバ**
 
 @r_rudi
 -------
 
-ansible
+**ansible**
+
+https://github.com/ansible/ansible
+
+@troter
+-------
+
+**「git-flow は死んだ」**
 
 定期プレゼン
 ============
@@ -182,7 +197,7 @@ ansible
 @torufurukawa
 -------------
 
-マネージメントについて
+お題、募集中
 
 @hiroki_ninuma
 --------------
@@ -193,6 +208,13 @@ LT
 ==
 
 勉強会やら何やらの告知も歓迎ですよ、時間は 3~5 分程度です。
+
+@flyingfoozy
+------------
+
+lsを読まずにプログラマを名乗るな!
+
+http://www.amazon.co.jp/dp/4798039438/
 
 講師派遣
 ========

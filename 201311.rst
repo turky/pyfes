@@ -191,6 +191,13 @@ https://github.com/ansible/ansible
 
 **「git-flow は死んだ」**
 
+
+@3_and_planet
+----------
+
+** Rabbit MQ コトハジメ **
+
+
 定期プレゼン
 ============
 

@@ -174,11 +174,6 @@ nghttp2 - HTTP/2.0 C Library
 
 https://github.com/tatsuhiro-t/nghttp2
 
-@jovi0608
----------
-
-**HTTP2.0 サーバ**
-
 @r_rudi
 -------
 

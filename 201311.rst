@@ -153,12 +153,10 @@ nginx + mruby
 
 https://github.com/cubicdaiya/mruby_nginx_module
 
-@cubicdaiya
+@harukasan
 -----------
 
-**二本立てです**
-
-Pixiv を支えるインフラの技術
+pixiv を支えるインフラの技術
 
 @jxck_
 ------

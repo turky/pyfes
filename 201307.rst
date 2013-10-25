@@ -151,6 +151,7 @@ Erlang & RTB
 ------------
 
 @ajiyoshi
+    https://dl.dropboxusercontent.com/u/31719381/pyfes201307/pyfes201307.pdf
 
 Django CMS
 ----------

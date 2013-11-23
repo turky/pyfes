@@ -190,6 +190,11 @@ https://github.com/ansible/ansible
 
 **Rabbit MQ コトハジメ**
 
+@aishimau
+----------
+
+**業界団体の運営について**
+
 
 定期プレゼン
 ============

@@ -93,10 +93,7 @@ Python を主に使っている人が多く参加しますが、ほとんど関�
 募集中
 ======
 
-- 一般枠
-- 女子枠
-- 遠方枠
-- 子連れ枠
+http://connpass.com/event/4273/
 
 ステッカー配布について
 ======================
@@ -202,12 +199,7 @@ https://github.com/ansible/ansible
 @torufurukawa
 -------------
 
-お題、募集中
-
-@hiroki_ninuma
---------------
-
-未定
+Python 3.4 情報
 
 LT
 ==
